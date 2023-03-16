@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bhm",
+    "oncran": true
+  },
+  {
+    "package": "lpl",
+    "oncran": true
+  }
+]
