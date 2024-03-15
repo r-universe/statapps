@@ -5,6 +5,9 @@
 [submodule "bhm"]
 	path = bhm
 	url = https://github.com/statapps/bhm
+[submodule "dnn"]
+	path = dnn
+	url = https://github.com/cran/dnn
 [submodule "lpl"]
 	path = lpl
 	url = https://github.com/statapps/lpl
